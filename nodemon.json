@@ -1,0 +1,6 @@
+{
+  "exec": "bun",
+  "verbose": true,
+  "ignore": ["node_modules"],
+  "ext": "ts,js,json"
+}
